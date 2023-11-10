@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/web.png";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: " Landing Page ",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      " Discover the elegance of my HTML and CSS crafted landing page – a seamless blend of design and functionality, inviting you to explore a captivating online experience. Engage with simplicity, style, and user-friendly navigation. ",
+    url: " https://github.com/waseem1302-x/HTML-CSS/blob/main/Landing%20Page.zip ",
   },
   {
-    title: "Web Development for Beginners",
+    title: " Food Website ",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      " Indulge your senses with my delectable creations on my newly crafted food website, where every dish tells a flavorful story. Explore a culinary journey that tantalizes taste buds and celebrates the artistry of delicious dining. ",
+    url: " https://github.com/waseem1302-x/HTML-CSS/blob/main/Food.zip ",
   },
   {
-    title: "My Resume Site",
+    title: "My Linkedin Profile",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      " Explore my professional journey in web development and discover how I bring creativity and expertise to enhance user experiences. Let's connect on LinkedIn for insights into my passion for innovative solutions and continuous learning in the ever-evolving tech landscape. ",
+    url: "  https://www.linkedin.com/in/waseem-mushtaq-1302-x/ ",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "GitHub Projects",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      " Discover the heart of my projects on GitHub – a showcase of passion, innovation, and continuous learning. Explore the code journey with me; your curiosity is the compass, and collaboration is the destination. ",
+    url: " https://github.com/waseem1302-x ",
   },
 ];
 
