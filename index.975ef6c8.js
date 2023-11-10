@@ -28749,8 +28749,8 @@ var _reactDefault = parcelHelpers.interopDefault(_react);
  *
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
- */ var _asideJpg = require("../images/aside.jpg");
-var _asideJpgDefault = parcelHelpers.interopDefault(_asideJpg);
+ */ var _webPng = require("../images/web.png");
+var _webPngDefault = parcelHelpers.interopDefault(_webPng);
 const imageAltText = "Aside Image";
 /**
  * Project list
@@ -28807,7 +28807,7 @@ const Portfolio = ()=>{
                             alignSelf: "center"
                         },
                         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                            src: (0, _asideJpgDefault.default),
+                            src: (0, _webPngDefault.default),
                             style: {
                                 height: "90%",
                                 width: "100%",
@@ -28890,9 +28890,6 @@ $RefreshReg$(_c, "Portfolio");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/aside.jpg":"8LEyI"}],"8LEyI":[function(require,module,exports) {
-module.exports = require("./helpers/bundle-url").getBundleURL("bLxZJ") + "aside.dd4d2ef5.jpg" + "?" + Date.now();
-
-},{"./helpers/bundle-url":"lgJ39"}],"lW6qc":[function() {},{}]},["1xC6H","ShInH","8lqZg"], "8lqZg", "parcelRequire6158")
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","../images/web.png":"2ILul"}],"lW6qc":[function() {},{}]},["1xC6H","ShInH","8lqZg"], "8lqZg", "parcelRequire6158")
 
 //# sourceMappingURL=index.975ef6c8.js.map
